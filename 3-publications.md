@@ -22,7 +22,7 @@ permalink: /publications/
 
 ## Conference
 
-1.	A. C. Anadiotis, R. Appuswamy, A. Ailamaki, I. Bronshtein, H. Avni, D. Dominguez-Sarl, S. Goikhman, and E. Levy, “Fine-grained elasticity for scale-up OLTP systems”, under review in the 39th IEEE International Conference on Distributed Computing Systems.
+1.	A. Raza, P. Chrysogelos, P. Sioulas, V. Indjic, A.C. Anadiotis, A. Ailamaki, "GPU-accelerated data management under the test of time", CIDR 2020, [Link to paper.](http://cidrdb.org/cidr2020/papers/p18-raza-cidr20.pdf) 
 2.	R. Appuswamy, A. C. Anadiotis, D. Porobic, M. Iman, and A. Ailamaki, "Analyzing the Impact of System Architecture on the Scalability of OLTP Engines for High-Contention Workloads", PVLDB, Vol 11, No 2, 2017, DOI: 10.14778/3149193.3149194. [Link to publisher.](http://www.vldb.org/pvldb/vol11/p121-appuswamy.pdf)
 3.	P. Boncz, A. C. Anadiotis, and S. Klaebe, "JCC-H: adding Join Crossing Correlations with Skew to TPC-H", in the 9th TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTC 2017), 2017. [Link to publisher.](https://doi.org/10.1007/978-3-319-72401-0_8)
 4.	A. C. Anadiotis, L. Galluccio, S. Milardo, G. Morabito, and S. Palazzo, "Towards a software-defined Network Operating System for the IoT", 2015 IEEE 2nd World Forum on Internet of Things (WF-IoT), Milan, 2015, pp. 579-584. [Link to publisher.](http://doi.org/10.1109/WF-IoT.2015.7389118)
