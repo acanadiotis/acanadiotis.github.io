@@ -9,7 +9,7 @@ permalink: /contact/
 <table>
   <tbody>
     <tr>
-      <td rowspan="6"><img src="images/x_logo.png"/></td>
+      <td rowspan="6"><img src="images/x_logo.png" width=100 /></td>
     </tr>
     <tr>
       <td>LIX</td>
@@ -26,11 +26,11 @@ permalink: /contact/
       <td>91120, Palaiseau, France</td>
     </tr>
     <tr>
-      <td><img src="images/scholar_logo_64dp.png"/></td>
+      <td><img src="images/scholar_logo_64dp.png" width=200/></td>
       <td><a href="https://scholar.google.ch/citations?user=RU6JiOEAAAAJ">https://scholar.google.ch/citations?user=RU6JiOEAAAAJ</a></td>
     </tr>
     <tr>
-      <td><img src="images/dblp_logo_320_120.png"/></td>
+      <td><img src="images/dblp_logo_320_120.png" width=200 /></td>
       <td><a href="https://dblp.org/pid/85/8852">https://dblp.org/pid/85/8852</a></td>
     </tr>
   </tbody>
