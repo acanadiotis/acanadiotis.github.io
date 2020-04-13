@@ -7,7 +7,7 @@ permalink: /publications/
 
 ## Conference
 
-1. A. Raza, P. Chrysogelos, A. C. Anadiotis, A. Ailamaki, "Adaptive HTAP through Elastic ResourceScheduling", in Proceedings of the 2020 ACM SIGMOD InternationalConference on Management of Data (SIGMOD’20), June 14–19, 2020, Portland, OR, USA. [Link to publisher.](https://doi.org/10.1145/3318464.3389783) [Link to extended technical report.](https://infoscience.epfl.ch/record/276997)
+1. A. Raza, P. Chrysogelos, A. C. Anadiotis, A. Ailamaki, "Adaptive HTAP through Elastic Resource Scheduling", in Proceedings of the 2020 ACM SIGMOD InternationalConference on Management of Data (SIGMOD’20), June 14–19, 2020, Portland, OR, USA. [Link to publisher.](https://doi.org/10.1145/3318464.3389783) [Link to extended technical report.](https://infoscience.epfl.ch/record/276997)
 2.	A. Raza, P. Chrysogelos, P. Sioulas, V. Indjic, A.C. Anadiotis, A. Ailamaki, "GPU-accelerated data management under the test of time", CIDR 2020, [Link to paper.](http://cidrdb.org/cidr2020/papers/p18-raza-cidr20.pdf)
 3.	R. Appuswamy, A. C. Anadiotis, D. Porobic, M. Iman, and A. Ailamaki, "Analyzing the Impact of System Architecture on the Scalability of OLTP Engines for High-Contention Workloads", PVLDB, Vol 11, No 2, 2017, DOI: 10.14778/3149193.3149194. [Link to publisher.](http://www.vldb.org/pvldb/vol11/p121-appuswamy.pdf)
 4.	P. Boncz, A. C. Anadiotis, and S. Klaebe, "JCC-H: adding Join Crossing Correlations with Skew to TPC-H", in the 9th TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTC 2017), 2017. [Link to publisher.](https://doi.org/10.1007/978-3-319-72401-0_8)
