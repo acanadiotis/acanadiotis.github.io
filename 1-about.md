@@ -8,7 +8,7 @@ permalink: /home/
 ---
 # Angelos-Christos Anadiotis
 
-![](../photo.png){:style="display:block; float: left; margin-left: 7px; padding-right: 12px;" height="300px" width="220px"}
+![](../photo.jpg){:style="display:block; float: left; margin-left: 7px; padding-right: 12px;" height="300px" width="220px"}
 I am an Assistant Professor of Computer Science at [Ecole Polytechnique](https://www.polytechnique.edu), member of the [CEDAR](https://team.inria.fr/cedar) team, and a Visiting Professor at Ecole Polytechnique Federale de Lausanne, member of the [DIAS](http://dias.epfl.ch) lab.
 Before, I worked as a post-doctoral researcher at the DIAS lab of the [School of Computer and Communication Sciences](https://www.epfl.ch/schools/ic/), [EPFL](https://www.epfl.ch).
 I obtained my doctorate of engineering from the National Technical University of Athens, whereas before joining DIAS, I spent sixteen months at the University of Catania where I worked on the Internet of Things.
