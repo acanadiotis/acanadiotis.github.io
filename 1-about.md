@@ -9,9 +9,7 @@ permalink: /home/
 # Angelos-Christos Anadiotis
 
 ![](../photo.png){:style="display:block; float: left; margin-left: 7px; padding-right: 12px;" height="300px" width="220px"}
-I am an Assistant Professor of Computer Science at [Ecole Polytechnique](https://www.polytechnique.edu), member of the [CEDAR](https://team.inria.fr/cedar) team.
-Before, I worked as a post-doctoral researcher at the [Data Intensive Applications and Systems (DIAS)](https://dias.epfl.ch) lab of the [School of Computer and Communication Sciences](https://www.epfl.ch/schools/ic/), [EPFL](https://www.epfl.ch).
+I am an Assistant Professor of Computer Science at [Ecole Polytechnique](https://www.polytechnique.edu), member of the [CEDAR](https://team.inria.fr/cedar) team, and a Visiting Professor at Ecole Polytechnique Federale de Lausanne, member of the [DIAS](http://dias.epfl.ch) lab.
+Before, I worked as a post-doctoral researcher at the DIAS lab of the [School of Computer and Communication Sciences](https://www.epfl.ch/schools/ic/), [EPFL](https://www.epfl.ch).
 I obtained my doctorate of engineering from the National Technical University of Athens, whereas before joining DIAS, I spent sixteen months at the University of Catania where I worked on the Internet of Things.
-My current research aims in enabling fast and predictable data management systems.
-To achieve this, I separate query execution from resource scheduling and I optimise the first for speed and the second for providing adaptivity and tight performance bounds.
-My vision is to enable query execution at extreme scale over today's heterogeneous network infrastructure.
+My research focuses on resource management and execution models for data management systems in the face of heterogeneous workloads and data layouts. Currently, I am working on data management systems which combine relational, graph and machine learning processing pipelines.  

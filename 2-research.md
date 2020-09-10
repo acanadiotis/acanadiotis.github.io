@@ -6,22 +6,30 @@ permalink: /research/
 # Research
 
 Today, we have in our hands massive amounts of data, but we are not able to process them efficiently and extract useful insights out of them.
-In the meanwhile, the sources of data grow both in size, variety, and heterogeneity.
-The Internet of Things, genomics and bio-medical applications, high-energy physics, astronomy, and many more fields generate an unprecedented amount of data that often need to be combined in order to construct meaningful information.
+In the meanwhile, both the data sources and the workloads grow in size, variety, and heterogeneity.
+Internet of Things, genomics and bio-medical applications, high-energy physics, astronomy, and many more fields generate an unprecedented amount of data that often need to be combined in order to construct meaningful information.
 On top of that, data analysts require support for different types of queries, even if they are performed on top of the same data.
 
-My research focuses on bridging the heterogeneity across different data sources and on adapting the system configuration to the requirements of each end-user application.
-Throughout my career so far, I have worked on standardising middleware frameworks in order to enable interoperability across applications, on bridging the network heterogeneity in order to enable device-to-device communication at extreme scale for the Internet of Things, and on elastic infrastructures to adapt resource scheduling to the application requirements at runtime.
-My vision is to jointly optimise data analysis with resource scheduling in order to provide adaptive systems to the users.
-In the following, I give a short overview of some projects that I have worked on in this course.
+My research focuses on bridging the heterogeneity across different data sources, workloads and systems and on adapting the system resource allocation to the requirements of each application.
+Throughout my career so far, I have worked on standardising middleware frameworks in order to enable interoperability across applications, on bridging the network heterogeneity in order to enable device-to-device communication at extreme scale for the Internet of Things, and on elastic infrastructures to adapt resource scheduling to the workload requirements at runtime.
+My vision is to jointly optimise data processing algorithms execution with resource scheduling in order to build systems which are adaptive to underlying resource available in par with the workload requirements.
+In the following, I give a short overview of some projects that I have worked on in so far with several colleagues throughout my career.
 
-## Elastic resource scheduling in data management systems
-Data management systems are continuously migrated to the cloud in order to exploit the elasticity provided by it and adjust their resource allocation to the requirements of their workload.
-Current solutions typically treat elasticity in a scale-out fashion by adding or removing resources at the level of a server instance.
-However, this approach can incur significant overheads for stateful applications, like transactional database engines.
-My research provides a different angle by proposing scale-up elasticity for short-lived workload changes.
-I have designed and implemented a system that enables applications running inside virtual machines to perform fine-grained resource allocation in big multi-socket, multi-core servers.
-This project has been built considering a transactional engine, which can be found [here.](https://github.com/epfl-dias/trireme)
+## Fresh data processing
+Data freshness has become a major requirement of modern data warehousing systems, which consider data being ingested by a transactional workload and, then, analyzed shortly afterwards by analytical queries.
+This area, typically referred to as Hybrid Transactional Analytical Processing (HTAP), focuses on the data freshness guarantees provided by the related systems and challenges the way transactional and analytical queries are executed over the same database.
+In this line of work, we have modeled HTAP as a resource management problem, where a transactional and an analytical engine are competing for resources.
+By elastically trading resources between the engines, this work shows that there exists an adaptive system design, which can be elastically constructed at runtime based on the workload and the resource availability.
+This approach has been applied in both CPU and GPU-based engines. 
+
+## Scale-up elasticity for stateful systems
+A transactional database engine has to maintain a consistent state throughout the workload execution.
+This becomes particularly challenging in the face of variations in the workload, where the engine has to elastically adapt its resource allocation to meet its performance SLAs.
+Scale-out elasticity, which is typically used in this case, has overheads in maintaining the state as partitions change due to extensive state migration and distributed transaction coordination.
+These overheads are only ammortized when the variation lasts long enough to compensate for the overheads.
+Instead, this approach proposes an elastic scale-up system design and shows that it is beneficial for short-lived workload variations.
+Moreover, this approach introduces a new spot instance model for the cloud, where stateful engines are deployed within virtual machines which have minimum and maximum resource guarantees and resources are traded across VMs with minimal overheads.   
+This project has been built considering a transactional engine, which can be found [here](https://github.com/epfl-dias/trireme), whereas the work has been funded by Huawei. 
 
 ## Unified network control in the Internet of Things
 The Internet of Things consists of billion of devices connected over different types of networks.

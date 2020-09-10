@@ -6,10 +6,12 @@ permalink: /publications/
 # Publications
 
 ## Conference
-
+1. M. Y. Haddad, A. C. Anadiotis, I. Manolescu. Graph-based keyword search in heterogeneous data sources. 36ème Conférence sur la Gestion de Données – Principes, Technologies et Applications (BDA 2020), Oct 2020, Online, France. [Link to paper.](https://arxiv.org/abs/2009.04283)
+1. A. C. Anadiotis, R. Appuswamy, A. Ailamaki, I. Bronshtein, H. Avni, D. Dominguez-Sal, S. Goikhman, E. Levy,
+"A system design for elastically scaling transaction processing engines in virtualized servers", PVLDB 13(12): 3085-3098 (2020), DOI: 10.14778/3415478.3415536. [Link to paper.](http://www.vldb.org/pvldb/vol13/p3085-anadiotis.pdf)
 1. A. Raza, P. Chrysogelos, A. C. Anadiotis, A. Ailamaki, "Adaptive HTAP through Elastic Resource Scheduling", in Proceedings of the 2020 ACM SIGMOD InternationalConference on Management of Data (SIGMOD’20), June 14–19, 2020, Portland, OR, USA. [Link to publisher.](https://doi.org/10.1145/3318464.3389783) [Link to extended technical report.](https://infoscience.epfl.ch/record/276997)
 2.	A. Raza, P. Chrysogelos, P. Sioulas, V. Indjic, A.C. Anadiotis, A. Ailamaki, "GPU-accelerated data management under the test of time", CIDR 2020, [Link to paper.](http://cidrdb.org/cidr2020/papers/p18-raza-cidr20.pdf)
-3.	R. Appuswamy, A. C. Anadiotis, D. Porobic, M. Iman, and A. Ailamaki, "Analyzing the Impact of System Architecture on the Scalability of OLTP Engines for High-Contention Workloads", PVLDB, Vol 11, No 2, 2017, DOI: 10.14778/3149193.3149194. [Link to publisher.](http://www.vldb.org/pvldb/vol11/p121-appuswamy.pdf)
+3.	R. Appuswamy, A. C. Anadiotis, D. Porobic, M. Iman, and A. Ailamaki, "Analyzing the Impact of System Architecture on the Scalability of OLTP Engines for High-Contention Workloads", PVLDB 11(2): 121-134 (2017), DOI: 10.14778/3149193.3149194. [Link to publisher.](http://www.vldb.org/pvldb/vol11/p121-appuswamy.pdf)
 4.	P. Boncz, A. C. Anadiotis, and S. Klaebe, "JCC-H: adding Join Crossing Correlations with Skew to TPC-H", in the 9th TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTC 2017), 2017. [Link to publisher.](https://doi.org/10.1007/978-3-319-72401-0_8)
 5.	A. C. Anadiotis, L. Galluccio, S. Milardo, G. Morabito, and S. Palazzo, "Towards a software-defined Network Operating System for the IoT", 2015 IEEE 2nd World Forum on Internet of Things (WF-IoT), Milan, 2015, pp. 579-584. [Link to publisher.](http://doi.org/10.1109/WF-IoT.2015.7389118)
 6.	F.I. Gogoulos, D.I. Kaklamani, I.S. Venieris, A. C. Anadiotis, U. Inden, S. Naimark, P. Skobelev and A. Tsarev, "An Intelligent Trucking Operations Management System", in IFAC Proceedings Volumes, Vol 46, No 25, p. 49-54, 2013. [Link to publisher.](https://doi.org/10.3182/20130916-2-TR-4042.00016)
@@ -24,7 +26,7 @@ permalink: /publications/
 
 ## Journal
 
-1.	A. C. Anadiotis, L. Galluccio, S. Milardo, G. Morabito, and S. Palazzo, “SD-WISE: A software-defined wireless sensor network”, under revision in Computer Networks. [Link to arxiv.](https://arxiv.org/pdf/1710.09147.pdf)
+1.	A. C. Anadiotis, L. Galluccio, S. Milardo, G. Morabito, and S. Palazzo, “SD-WISE: A software-defined wireless sensor network”, in Computer Networks, Vol 159, p. 84-95, 2019, Elsevier. [Link to publisher.](https://doi.org/10.1016/j.comnet.2019.04.029)
 2.	A. C. Anadiotis, S. Milardo, G. Morabito, and S. Palazzo, "Towards Unified Control of Networks of Switches and Sensors through a Network Operating System", in IEEE Internet of Things Journal, Vol 5, No 2, 2018, p. 895-904, IEEE. [Link to publisher.](https://doi.org/10.1109/JIOT.2018.2805191)
 3.	A. C. Anadiotis, G. Morabito, and S. Palazzo, "An SDN-assisted Framework for Optimal Deployment of MapReduce Functions in WSNs", in IEEE Transactions on Mobile Computing, Vol 15, No 9, 2016, p. 2165-2178, IEEE. [Link to publisher.](http://doi.org/10.1109/TMC.2015.2496582)
 4.	A. C. Anadiotis, P. Gkonis, D. I. Kaklamani, and I. S. Venieris, "A cross‐layer information centric‐relay transmission strategy for MIMO–OFDMA multicellular networks", in Wireless Communications and Mobile Computing, Vol 15, No 15, 2015, p. 1914-1928, Wiley. [Link to publisher.](http://dx.doi.org/10.1002/wcm.2463)
