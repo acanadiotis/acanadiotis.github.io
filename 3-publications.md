@@ -6,7 +6,7 @@ permalink: /publications/
 # Publications
 
 ## Conference
-1. M. Y. Haddad, A. C. Anadiotis, I. Manolescu. Graph-based keyword search in heterogeneous data sources. 36ème Conférence sur la Gestion de Données – Principes, Technologies et Applications (BDA 2020), Oct 2020, Online, France. [Link to paper.](https://arxiv.org/abs/2009.04283)
+1. A. C. Anadiotis, M. Y. Hadad, I. Manolescu. Graph-based keyword search in heterogeneous data sources. 36ème Conférence sur la Gestion de Données – Principes, Technologies et Applications (BDA 2020), Oct 2020, Online, France. [Link to paper.](https://hal.inria.fr/hal-02934277)
 1. A. C. Anadiotis, R. Appuswamy, A. Ailamaki, I. Bronshtein, H. Avni, D. Dominguez-Sal, S. Goikhman, E. Levy,
 "A system design for elastically scaling transaction processing engines in virtualized servers", PVLDB 13(12): 3085-3098 (2020), DOI: 10.14778/3415478.3415536. [Link to paper.](http://www.vldb.org/pvldb/vol13/p3085-anadiotis.pdf)
 1. A. Raza, P. Chrysogelos, A. C. Anadiotis, A. Ailamaki, "Adaptive HTAP through Elastic Resource Scheduling", in Proceedings of the 2020 ACM SIGMOD InternationalConference on Management of Data (SIGMOD’20), June 14–19, 2020, Portland, OR, USA. [Link to publisher.](https://doi.org/10.1145/3318464.3389783) [Link to extended technical report.](https://infoscience.epfl.ch/record/276997)
