@@ -12,10 +12,12 @@ permalink: /community-service/
 * Wireless Networks, Springer
 
 ## Committee member
-* SIGMOD 2021 Reproducibility
-* The 46th International Conference on Very Large Databases (VLDB 2020) Demo PC and Best Demo Award Committee
+* ACM International Conference on Management of Data (SIGMOD), Reproducibility Committee, 2021-2022
+* ACM International Conference on Management of Data (SIGMOD), Demonstration Committee, 2022
+* International Conference on AI-ML Systems (AIMLSystems), 2021.
+* IEEE Global Communications Conference (Globecom 2017-2021)
+* The 46th International Conference on Very Large Databases (VLDB), Demonstration and Best Demonstration Award Committee, 2020
 * The First Workshop on Internet of Things for Transportation and Logistics (IoTTL) (WF-IoT workshop)
-* IEEE Global Communications Conference (Globecom 2017-2020)
 * IEEE 5G World Forum (WF-5G 2018 - 2020)
 * The 32nd/33rd International Conference on Information Networking (ICOIN 2018-2020)
 * The 28th International Conference on Computer Communications and Networks (ICCCN 2019)
@@ -26,3 +28,6 @@ permalink: /community-service/
 
 ## Standardisation
 * International Standards Organisation (ISO). Project editor of ISO/IEC 23006-3:2013 (MPEG-M).
+
+## Organization
+* The 47th International Conference on Very Large Databases (VLDB 2021), Web chair
